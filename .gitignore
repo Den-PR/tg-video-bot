@@ -5,6 +5,7 @@
 # Файлы cookies (аккаунты)
 *cookies*.txt
 *.txt
+!requirements.txt
 
 # Временные файлы Python и кэш
 __pycache__/
