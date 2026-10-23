@@ -1,0 +1,23 @@
+# Переменные окружения и секреты
+.env
+*.env
+
+# Файлы cookies (аккаунты)
+*cookies*.txt
+*.txt
+
+# Временные файлы Python и кэш
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Временные медиафайлы (если сохранялись локально)
+downloads/
+*.mp4
+*.part
+*.ytdl
+
+# Системные файлы
+.DS_Store
+*.swp
